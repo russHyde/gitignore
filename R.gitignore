@@ -43,3 +43,6 @@ docs/
 
 # translation temp files
 po/*~
+
+# tokens / secrets used when deploying to shinyapps.io / rpubs.com
+rsconnect/
